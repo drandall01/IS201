@@ -1,0 +1,12 @@
+.centerText{
+    text-align: center;
+}
+
+.header{
+    font-size: xx-large;
+}
+
+.playerName{
+    text-decoration: underline;
+    font-size: x-large;
+}
